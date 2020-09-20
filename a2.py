@@ -77,6 +77,7 @@ def str5(value):
 
 wefwef
 def str5_cmyk(cmyk):
+    fwefwef
     """
     Returns: String representation of cmyk in the form "(C, M, Y, K)".
 
