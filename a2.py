@@ -75,8 +75,11 @@ def str5(value):
     # on how big value is. Look at the examples in the specification.
     return ''    # Stub
 
-
+wefwef
 def str5_cmyk(cmyk):
+    fwefwef
+
+    add3
     """
     Returns: String representation of cmyk in the form "(C, M, Y, K)".
 
